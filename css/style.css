@@ -1,0 +1,10 @@
+body{
+  font-family: 'Manrope', sans-serif;
+}
+.explore-btn{
+ padding-top: 20px;
+  border-radius: 10px;
+  background: linear-gradient(#F00,#FF8938);
+  color: white;
+  padding: 10px 20px;
+}
