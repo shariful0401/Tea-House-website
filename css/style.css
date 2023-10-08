@@ -1,43 +1,63 @@
-body{
+body {
   font-family: 'Manrope', sans-serif;
 }
-.explore-btn{
- padding-top: 20px;
+
+.explore-btn {
+  padding-top: 20px;
   border-radius: 10px;
-  background: linear-gradient(#F00,#FF8938);
+  background: linear-gradient(#F00, #FF8938);
   color: white;
   padding: 10px 20px;
 }
-.frist-div{
+
+.frist-div {
   /* height: 135px;
   width: 208px; */
   opacity: 0.1;
   background: linear-gradient(#F00 0%, #FF8938 100%);
 }
-.second-div{
+
+.second-div {
   /* height: 135px;
   width: 208px; */
   background: linear-gradient(#D9D9D9, rgba(255, 255, 255, 0.00));
   /* background-color: #F00; */
 }
-.super-clients{
+
+.super-clients {
   height: 660px;
   /* width: 1140px auto; */
   background: linear-gradient(270deg, #F00 0%, #FF8938 100%);
 }
-.show-btn{
-  background-color:#ffff;
-  padding: 10px 20px; 
-  color:#FF8938;
+
+.show-btn {
+  background-color: #ffff;
+  padding: 10px 20px;
+  color: #FF8938;
 }
 
-.rela{
+.rela {
   position: relative;
 }
-.abs{
+
+.abs {
   position: absolute;
   right: 0;
   top: 90px;
   height: 200px;
   width: 600px;
+}
+
+footer {
+  background: linear-gradient(270deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 137, 56, 0.10) 100%);
+}
+
+.get-start-btn {
+  padding: 10px 15px;
+  background: var(--Linear, linear-gradient(270deg, #F00 0%, #FF8938 100%));
+}
+
+.email-input{
+  background: none;
+  border: none;
 }
